@@ -1,0 +1,111 @@
+Organization,Period End Date,Category,Counterparty Rating,"Amount (US$, millions)"
+IBRD,2010-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",BB,7
+IBRD,2010-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",AA,10039
+IBRD,2010-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",AAA,6160
+IBRD,2010-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",BBB,4
+IBRD,2010-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",A,4944
+IBRD,2010-06-30T00:00:00.000,Net Swap Exposure,AA,586
+IBRD,2010-06-30T00:00:00.000,Net Swap Exposure,A,148
+IBRD,2010-06-30T00:00:00.000,Net Swap Exposure,AAA,93
+IBRD,2010-06-30T00:00:00.000,Sovereigns,A,713
+IBRD,2010-06-30T00:00:00.000,Sovereigns,AAA,7561
+IBRD,2010-06-30T00:00:00.000,Sovereigns,AA,5818
+IBRD,2011-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",BB or lower,11
+IBRD,2011-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",AAA,6698
+IBRD,2011-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",AA,11814
+IBRD,2011-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",A,3313
+IBRD,2011-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",BBB,4
+IBRD,2011-06-30T00:00:00.000,Net Swap Exposure,AA,989
+IBRD,2011-06-30T00:00:00.000,Net Swap Exposure,A,190
+IBRD,2011-06-30T00:00:00.000,Sovereigns,AAA,4379
+IBRD,2011-06-30T00:00:00.000,Sovereigns,AA,4671
+IBRD,2011-06-30T00:00:00.000,Sovereigns,A,488
+IBRD,2012-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",AAA,8054
+IBRD,2012-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",AA,8030
+IBRD,2012-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",A,3457
+IBRD,2012-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",BBB,4
+IBRD,2012-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",BB or lower,8
+IBRD,2012-06-30T00:00:00.000,Net Swap Exposure,AA,550
+IBRD,2012-06-30T00:00:00.000,Net Swap Exposure,A,177
+IBRD,2012-06-30T00:00:00.000,Sovereigns,AAA,8842
+IBRD,2012-06-30T00:00:00.000,Sovereigns,AA,6086
+IBRD,2013-06-30T00:00:00.000,"Agencies, Commercial Paper, ABS, Corporates and Time Deposites",A,5123
+IBRD,2013-06-30T00:00:00.000,"Agencies, Commercial Paper, ABS, Corporates and Time Deposites",AAA,8175
+IBRD,2013-06-30T00:00:00.000,"Agencies, Commercial Paper, ABS, Corporates and Time Deposites",AA,8430
+IBRD,2013-06-30T00:00:00.000,"Agencies, Commercial Paper, ABS, Corporates and Time Deposites",BBB,2
+IBRD,2013-06-30T00:00:00.000,"Agencies, Commercial Paper, ABS, Corporates and Time Deposites",BB or lower,11
+IBRD,2013-06-30T00:00:00.000,Net Swap Exposure,A,141
+IBRD,2013-06-30T00:00:00.000,Net Swap Exposure,AA,438
+IBRD,2013-06-30T00:00:00.000,Sovereigns,AAA,9840
+IBRD,2013-06-30T00:00:00.000,Sovereigns,AA,4219
+IBRD,2013-06-30T00:00:00.000,Sovereigns,A,741
+IBRD,2013-06-30T00:00:00.000,Sovereigns,BBB,294
+IBRD,2014-06-30T00:00:00.000,"Agencies, Commercial Paper, ABS, Corporates and Time Deposites",AAA,8191
+IBRD,2014-06-30T00:00:00.000,"Agencies, Commercial Paper, ABS, Corporates and Time Deposites",AA,12360
+IBRD,2014-06-30T00:00:00.000,"Agencies, Commercial Paper, ABS, Corporates and Time Deposites",A,8627
+IBRD,2014-06-30T00:00:00.000,"Agencies, Commercial Paper, ABS, Corporates and Time Deposites",BBB,2
+IBRD,2014-06-30T00:00:00.000,"Agencies, Commercial Paper, ABS, Corporates and Time Deposites",BB or lower,97
+IBRD,2014-06-30T00:00:00.000,Net Swap Exposure,AA,509
+IBRD,2014-06-30T00:00:00.000,Net Swap Exposure,A,163
+IBRD,2014-06-30T00:00:00.000,Sovereigns,A,1055
+IBRD,2014-06-30T00:00:00.000,Sovereigns,AAA,8323
+IBRD,2014-06-30T00:00:00.000,Sovereigns,AA,5108
+IBRD,2014-06-30T00:00:00.000,Sovereigns,BBB,408
+IBRD,2015-06-30T00:00:00.000,"Agencies, Commercial Paper, ABS, Corporates and Time Deposites",AAA,9571
+IBRD,2015-06-30T00:00:00.000,"Agencies, Commercial Paper, ABS, Corporates and Time Deposites",AA,9375
+IBRD,2015-06-30T00:00:00.000,"Agencies, Commercial Paper, ABS, Corporates and Time Deposites",BBB,8
+IBRD,2015-06-30T00:00:00.000,"Agencies, Commercial Paper, ABS, Corporates and Time Deposites",A,5997
+IBRD,2015-06-30T00:00:00.000,"Agencies, Commercial Paper, ABS, Corporates and Time Deposites",BB or lower,18
+IBRD,2015-06-30T00:00:00.000,Net Swap Exposure,AA,78
+IBRD,2015-06-30T00:00:00.000,Net Swap Exposure,BB or lower,5
+IBRD,2015-06-30T00:00:00.000,Net Swap Exposure,BBB,2
+IBRD,2015-06-30T00:00:00.000,Net Swap Exposure,A,107
+IBRD,2015-06-30T00:00:00.000,Sovereigns,BBB,223
+IBRD,2015-06-30T00:00:00.000,Sovereigns,AA,4385
+IBRD,2015-06-30T00:00:00.000,Sovereigns,A,7336
+IBRD,2015-06-30T00:00:00.000,Sovereigns,AAA,10451
+IDA,2010-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",B,3
+IDA,2010-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",AAA,3086
+IDA,2010-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",AA,3536
+IDA,2010-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",A,1390
+IDA,2010-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",BB,5
+IDA,2010-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",CCC,1
+IDA,2010-06-30T00:00:00.000,Sovereigns,A,148
+IDA,2010-06-30T00:00:00.000,Sovereigns,AA,4076
+IDA,2010-06-30T00:00:00.000,Sovereigns,AAA,14072
+IDA,2011-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",AAA,2762
+IDA,2011-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",BB or below,14
+IDA,2011-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",A,3235
+IDA,2011-06-30T00:00:00.000,"Agencies, ABS, Corporates and Time Deposites",AA,6814
+IDA,2011-06-30T00:00:00.000,Sovereigns,AA,2149
+IDA,2011-06-30T00:00:00.000,Sovereigns,AAA,15087
+IDA,2012-06-30T00:00:00.000,"Agencies, ABS, Swaps, Corporates and Time Deposites",AA,3379
+IDA,2012-06-30T00:00:00.000,"Agencies, ABS, Swaps, Corporates and Time Deposites",A,2173
+IDA,2012-06-30T00:00:00.000,"Agencies, ABS, Swaps, Corporates and Time Deposites",BB or below,81
+IDA,2012-06-30T00:00:00.000,"Agencies, ABS, Swaps, Corporates and Time Deposites",AAA,3259
+IDA,2012-06-30T00:00:00.000,Sovereigns,AA,3507
+IDA,2012-06-30T00:00:00.000,Sovereigns,AAA,18223
+IDA,2013-06-30T00:00:00.000,"Agencies, ABS, Swaps, Corporates and Time Deposites",A,2313
+IDA,2013-06-30T00:00:00.000,"Agencies, ABS, Swaps, Corporates and Time Deposites",AAA,3969
+IDA,2013-06-30T00:00:00.000,"Agencies, ABS, Swaps, Corporates and Time Deposites",AA,2732
+IDA,2013-06-30T00:00:00.000,"Agencies, ABS, Swaps, Corporates and Time Deposites",BBB or below,8
+IDA,2013-06-30T00:00:00.000,Sovereigns,AAA,12802
+IDA,2013-06-30T00:00:00.000,Sovereigns,A,170
+IDA,2013-06-30T00:00:00.000,Sovereigns,AA,8456
+IDA,2013-06-30T00:00:00.000,Sovereigns,BBB or below,102
+IDA,2014-06-30T00:00:00.000,"Agencies, ABS, Swaps, Corporates and Time Deposites",AA,4152
+IDA,2014-06-30T00:00:00.000,"Agencies, ABS, Swaps, Corporates and Time Deposites",BBB or below,9
+IDA,2014-06-30T00:00:00.000,"Agencies, ABS, Swaps, Corporates and Time Deposites",A,1192
+IDA,2014-06-30T00:00:00.000,"Agencies, ABS, Swaps, Corporates and Time Deposites",AAA,4175
+IDA,2014-06-30T00:00:00.000,Sovereigns,AA,9762
+IDA,2014-06-30T00:00:00.000,Sovereigns,A,507
+IDA,2014-06-30T00:00:00.000,Sovereigns,BBB or below,218
+IDA,2014-06-30T00:00:00.000,Sovereigns,AAA,12246
+IDA,2015-06-30T00:00:00.000,"Agencies, ABS, Swaps, Corporates and Time Deposites",A,913
+IDA,2015-06-30T00:00:00.000,"Agencies, ABS, Swaps, Corporates and Time Deposites",AAA,4628
+IDA,2015-06-30T00:00:00.000,"Agencies, ABS, Swaps, Corporates and Time Deposites",BBB or below,6
+IDA,2015-06-30T00:00:00.000,"Agencies, ABS, Swaps, Corporates and Time Deposites",AA,4153
+IDA,2015-06-30T00:00:00.000,Sovereigns,BBB or below,155
+IDA,2015-06-30T00:00:00.000,Sovereigns,A,4929
+IDA,2015-06-30T00:00:00.000,Sovereigns,AAA,10906
+IDA,2015-06-30T00:00:00.000,Sovereigns,AA,6014
